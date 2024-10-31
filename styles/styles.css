@@ -2,4 +2,14 @@ h1 {
 	color: red;
 	font-size: 50px;
 	font-weight: 700;
+/*	font-family: "BPG Square", sans-serif;*/
+	font-family: "Itim", cursive;
 }
+
+h2 {
+	color: red;
+	font-size: 50px;
+	font-weight: 700;
+	font-family: "ALK Life", sans-serif;
+}
+
